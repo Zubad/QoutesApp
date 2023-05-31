@@ -1,0 +1,30 @@
+.quotes-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .headline {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .quote-text {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
